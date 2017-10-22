@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@color/wallet_bright_foreground_holo_dark"
+        />
+    <item>
+        <bitmap android:src="@drawable/car"
+            android:gravity="center"
+            />
+
+
+    </item>
+
+</layer-list>

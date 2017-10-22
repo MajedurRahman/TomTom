@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "714423095001",
+    "firebase_url": "https://tomtom-298bf.firebaseio.com",
+    "project_id": "tomtom-298bf",
+    "storage_bucket": "tomtom-298bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714423095001:android:d17e03ece894a07e",
+        "android_client_info": {
+          "package_name": "com.example.majid.dako"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714423095001-arorhej39f5nhufgbq4glrgs5gugvrcl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.majid.dako",
+            "certificate_hash": "c1d847863a5e569d9294029cbe711366797a5ca3"
+          }
+        },
+        {
+          "client_id": "714423095001-d37nhfs2h6t30cap45n4naehfqqp8ed4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2nmHDxsJ-T5vyivClh_u4ozehPjgAJUc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714423095001-d37nhfs2h6t30cap45n4naehfqqp8ed4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
